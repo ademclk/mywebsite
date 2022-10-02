@@ -7,6 +7,8 @@
   <br>
 </h2>
 
+## I'm not the author of this project. See the original author below.
+
 ## Features
 
 ⚡️ Modern UI Design + Reveal Animations\
